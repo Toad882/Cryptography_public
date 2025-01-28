@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.venv/
+key/
+/cmake-build-debug
+/cmake-build-release
+/build
+/test
+Untitled.txt
+/test
+/build
+/test1
